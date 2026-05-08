@@ -1,0 +1,6 @@
+streamlit
+praw
+duckduckgo-search
+openai
+pandas
+python-dotenv
